@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with my brain
 - 📫 How to reach me - Ping me on Telegram - @DevKahl
 
- ![Imgur](https://i.imgur.com/YDRAKid.png)
+ ![Imgur](https://i.imgur.com/LEF9I7s.png)  
 <!---
 DebasishSahoo10/DebasishSahoo10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
