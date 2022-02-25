@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning JS,HTML,CSS
 - 💞️ I’m looking to collaborate with my brain
 - 📫 How to reach me - Ping me on Telegram - @DevKahl
+
+
+![Imgur](https://imgur.com/bDkpavf)
  
 <!---
 DebasishSahoo10/DebasishSahoo10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
