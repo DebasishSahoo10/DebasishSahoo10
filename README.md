@@ -1,4 +1,4 @@
-![Imgur](https://i.imgur.com/RZs6EyK.png)
+![Imgur](https://i.imgur.com/XjmplXe.png)
 - 👋 Hi, I’m Debasish Sahoo
 - 👀 I’m interested in Coding the world out
 - 🌱 I’m currently learning JS,HTML,CSS
